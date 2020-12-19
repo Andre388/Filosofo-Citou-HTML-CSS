@@ -1,0 +1,193 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+
+.header-1 {
+    background-color: #333232;
+    height: 80px;
+}
+.logo {
+    padding: 10px;
+    padding-left: 20px;
+    width: 30%;
+    float: left;
+    position: absolute;
+}
+
+.menus{
+    display: inline-block;
+    margin-left: 17%;
+}
+.menus ul li{
+    display: inline-block;
+    padding: 0px 0px 20px 100px;
+    margin-top: 0px;
+}
+
+.menus ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 38px;
+}
+
+.about {
+    background-color: #d9d8d8;
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    text-decoration:none; 
+
+}
+
+.about ol li {
+    font-size: 17px;
+    font-family: 'Darker Grotesque', sans-serif;
+    display: inline;
+    width: 90px;
+    list-style:none;
+    padding: 10px;
+}
+.citacoesText {
+    padding: 55px 0px 20px 23px;
+    margin-top: -15px;
+}
+
+.citacoesText h1 {
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+.horizontalRetangle {
+    background-color: #82756d;
+    height: 100px;
+    width: 5px;
+    margin-left: 5%;
+}
+
+.citacao {
+    margin-left: 8%;
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    margin-top: -5.5%;
+}
+
+.filosofo {
+    margin-left: 18%;
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    margin-top: -1.7%;
+}
+
+.horizontalRetangle1 {
+    background-color: #82756d;
+    height: 100px;
+    width: 5px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.turnPage {
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    text-decoration:none; 
+    position: absolute;
+}
+
+.turnPage ol li {
+    font-size: 17px;
+    font-family: 'Darker Grotesque', sans-serif;
+    display: inline;
+    width: 90px;
+    list-style:none;
+    padding: 10px;
+}
+
+.img li {
+    text-decoration: none;
+    display: inline;
+    padding: 20px;
+}
+
+.img {
+    text-align: center;
+}
+
+.sobre {
+
+    font-family: "Montserrat", sans-serif;
+    background-color: #fafafab3;
+    color: #fff;
+    padding: 40px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    box-shadow: 12px 15px 20px rgba(16,16,16,.16);
+    cursor: context-menu;
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    height: 100px;
+    
+}
+
+.emailIcon {
+    height: 70px;
+    width: 70px;
+}
+
+.githubIcon {
+    height: 70px;
+    width: 70px;
+}
+
+.listaIcon ul {
+    padding: 75px 1200px 150px 10px;
+}
+
+.listaContato ul {
+    color: black;
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+.listaContato {
+    position: absolute;
+    padding: 75px 700px 155px 100px;
+    margin-top: 15px;
+}
+
+.linkedinIcon {
+    height: 70px;
+    width: 70px;
+    padding-top: 10px;
+}
+
+.autores{
+    display: inline-block;
+    margin-left: 2%;
+}
+.autores ul li{
+    display: inline-block;
+    padding: 0px 100px 200px 40px;
+    margin-top: 0px;
+}
+
+.autores ul li a{
+    text-decoration: none;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    padding: 10px;
+}
